@@ -1,4 +1,4 @@
-# Brownian Bridge Diffusion Models
+# Dual-app Bridge
 ***
 #### [Deterministic Image-to-Image Translation via Denoising Brownian Bridge Models with Dual Approximators]()
 
