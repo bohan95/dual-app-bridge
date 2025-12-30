@@ -1,5 +1,5 @@
 # Dual-app Bridge
-#### [Deterministic Image-to-Image Translation via Denoising Brownian Bridge Models with Dual Approximators]()
+#### [Deterministic Image-to-Image Translation via Denoising Brownian Bridge Models with Dual Approximators](https://arxiv.org/abs/2512.23463)
 
 **Bohan Xiao*, Peiyong Wang*, Qisheng He, Ming Dong**
 
